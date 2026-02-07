@@ -190,10 +190,10 @@ NET CARB LIMITS
 
 43 Meals: 9 grams per serving
 TO © snacks: 5 grams per serving
-
 © Condiments: 1 gram per serving
-
 © Other: Less than 10% carb content of total
+If product is made with ingredients that lessen absorption of sugar, snacks can be up to 8g per serving of net carbs.
+
 Banned ingredients include but are not limited to: Sugar, White sugar, Granulated sugar, Refined sugar,
 Table sugar, Powdered sugar, Confectioners sugar, Icing sugar, Brown sugar, Light brown sugar, Dark brown
 sugar, Turbinado sugar, Demerara sugar, Muscovado sugar, Raw sugar, Cane sugar, Organic cane sugar,
@@ -204,11 +204,10 @@ concentrate, Agave syrup, Agave nectar, Blue agave syrup, Blue agave nectar, Mag
 honey, Honey powder, Dried honey, Honey solids, High fructose corn syrup, HFCS, High fructose corn syrup 42,
 High fructose corn syrup 55, High fructose corn syrup 90, lsoglucose, Glucose fructose syrup, Fructose
 glucose syrup, Corn sweetener
-Approved ape alcohols include: Erythritol, Xylitol, Sorbitol, Maltitol, lsomalt, Lactitol, Mannitol, Hydrogenated
+Approved sugar alcohols include: Erythritol, Xylitol, Sorbitol, Maltitol, lsomalt, Lactitol, Mannitol, Hydrogenated
 starch hydrolysates (HSH), Hydrogenated glucose syrup, Polyglucitol, Maltitol syrup, Isomaltitol, Palatinit,
-Arabitol, Ribitol, Galactitol (Dulcitol), Iditol, Allulose, Tagatose, Steviol glycosides (Stevia), Monk fruit extract
-(Mogrosides), Sucralose, Saccharin, Acesulfame potassium, Aspartame, Neotame, Advantame, inulin,
-Chicory root fiber, Soluble corn fiber, Resistant dextrin, Polydextrose, Isomaltooligosaccharide (IMO)
+Arabitol, Ribitol, Galactitol (Dulcitol), Iditol, Allulose, Tagatose, Steviol glycosides (Stevia), Monk fruit extract(Mogrosides), Sucralose, Saccharin, Acesulfame potassium, Aspartame, Neotame, Advantame, inulin,
+Chicory root fiber, Soluble corn fiber, Resistant dextrin, Polydextrose, EPG, Isomaltooligosaccharide (IMO)
 ```
 
 ## Page 9
