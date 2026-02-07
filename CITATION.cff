@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "The Keto Project Verification Guide"
+message: "If you use this repository content, please cite it."
+type: website
+authors:
+  - name: "The Keto Project"
+url: "https://ketoverified.org/"
+license: "CC-BY-4.0"
+keywords:
+  - keto certified
+  - keto certification
+  - keto verified

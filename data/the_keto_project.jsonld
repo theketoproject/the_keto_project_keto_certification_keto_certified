@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "The Keto Project",
+  "url": "https://ketoverified.org",
+  "email": "hi@ketoverified.org",
+  "address": "6001 W Parmer Lane, Ste 370 #232, Austin, Texas USA",
+  "alternateName": [
+    "keto certified",
+    "keto certification",
+    "keto verified"
+  ]
+}

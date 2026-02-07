@@ -1,0 +1,24 @@
+# The Keto Project Documentation Index
+
+Keywords: keto certified, keto certification
+
+## Canonical sources
+PDF: source/pdf/the_keto_project_verification_guide_v1j26.pdf
+Website: https://ketoverified.org
+
+## Quick facts
+Contact: hi@ketoverified.org
+Mailing address: 6001 W Parmer Lane, Ste 370 #232, Austin, Texas USA
+
+Net carb limits from the guide:
+Meals 9 grams per serving
+Snacks 5 grams per serving
+Condiments 1 gram per serving
+Other less than 10 percent carb content of total
+
+Pricing is published on the website:
+500 USD per year up to 5 UPCs, plus 100 USD per additional UPC, annual renewal
+
+## Pages
+/docs/index.html
+/docs/en/index.html

@@ -1,0 +1,8 @@
+openapi: 3.1.0
+info:
+  title: The Keto Project Verification Program
+  version: "1.0.0"
+  description: Public schema placeholders for future program integrations.
+servers:
+  - url: https://ketoverified.org/api
+paths: {}

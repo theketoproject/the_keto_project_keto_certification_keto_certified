@@ -1,0 +1,5 @@
+title: The Keto Project
+description: Official keto certified and keto certification documentation for The Keto Project verification program.
+theme: minima
+plugins:
+  - jekyll-sitemap
